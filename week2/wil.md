@@ -4,3 +4,4 @@ github에서 issue는 버그, 작업, 개선 사항 등과 같은 문제를 추�
 Merge commit: branh 남기고 amin에 변경사항 추가
 Squash and Merge: branch 삭제하고 main에 변경사항 추가
 Rebase and Merge: 쓰지 말 것
+<https://github.com/Junho134/2025-1-Beginner-Study/pull/3>
